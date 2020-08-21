@@ -8,3 +8,12 @@
 - [Clever Programmer](https://www.youtube.com/c/CleverProgrammer/)
 - [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
 - [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
+
+## Important Sites
+- [Single Element CSS Spinners](https://projects.lukehaas.me/css-loaders/)
+- [Mockaroo - Random Data Generator and API Mocking Tool …](https://www.mockaroo.com/)
+- [Developer Roadmaps](https://roadmap.sh/)
+- [REACT ROUTER](https://reactrouter.com/web/guides/quick-start)
+- [সফটওয়্যার ইঞ্জিনিয়ারিং ক্যারিয়ার গাইডলাইন (প্রথম পর্ব)](সফটওয়্যার ইঞ্জিনিয়ারিং ক্যারিয়ার গাইডলাইন (প্রথম পর্ব))
+- [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
+- [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
