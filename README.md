@@ -11,6 +11,7 @@
 - [Clever Programmer](https://www.youtube.com/c/CleverProgrammer/)
 - [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
 - [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
+- [Esterling Accime](https://www.youtube.com/c/EsterlingAccime)
 
 ## Important Sites
 - [Single Element CSS Spinners](https://projects.lukehaas.me/css-loaders/)
