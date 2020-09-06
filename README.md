@@ -1,14 +1,16 @@
 # Web Development Resources - JavaScript, React, Node.js, and Express.js 
 
-## YouTube Channels
+## YouTube Channels - Bangla
 - [Moshiur - HTML, CSS, Bootstrap, and WordPress](https://www.youtube.com/moshiur)
 - [Code for Food](https://www.youtube.com/channel/UC3PPNB_VsG7-NO42mgdrbbA)
 - [Code With Zonayed](https://www.youtube.com/channel/UC3PPNB_VsG7-NO42mgdrbbA)
+- [Learn with Sumit](https://www.youtube.com/c/LearnwithSumit)
+
+## YouTube Channels - English
 - [Codevolution](https://www.youtube.com/c/Codevolution/)
 - [Clever Programmer](https://www.youtube.com/c/CleverProgrammer/)
 - [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
 - [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
-- [Learn with Sumit](https://www.youtube.com/c/LearnwithSumit)
 
 ## Important Sites
 - [Single Element CSS Spinners](https://projects.lukehaas.me/css-loaders/)
