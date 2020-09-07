@@ -1,10 +1,12 @@
 # Web Development Resources - JavaScript, React, Node.js, and Express.js 
 
 ## YouTube Channels - Bangla
+- [Code for Food](https://www.youtube.com/c/anisulislamrubel)
 - [Moshiur - HTML, CSS, Bootstrap, and WordPress](https://www.youtube.com/moshiur)
 - [Code for Food](https://www.youtube.com/channel/UC3PPNB_VsG7-NO42mgdrbbA)
 - [Code With Zonayed](https://www.youtube.com/channel/UC3PPNB_VsG7-NO42mgdrbbA)
 - [Learn with Sumit](https://www.youtube.com/c/LearnwithSumit)
+- [webdeveloper bd](https://www.youtube.com/c/webdeveloperbd)
 
 ## YouTube Channels - English
 - [Codevolution](https://www.youtube.com/c/Codevolution/)
@@ -14,6 +16,7 @@
 - [Esterling Accime](https://www.youtube.com/c/EsterlingAccime)
 
 ## Important Sites
+- [হাতেকলমে জাভাস্ক্রিপ্ট](https://js.zonayed.me/)
 - [Single Element CSS Spinners](https://projects.lukehaas.me/css-loaders/)
 - [Mockaroo - Random Data Generator and API Mocking Tool …](https://www.mockaroo.com/)
 - [Developer Roadmaps](https://roadmap.sh/)
