@@ -1,7 +1,7 @@
 # Web Development Resources - JavaScript, React, Node.js, and Express.js 
 
 ## YouTube Channels - Bangla
-- [Code for Food](https://www.youtube.com/c/anisulislamrubel)
+- [Anisul Islam](https://www.youtube.com/c/anisulislamrubel)
 - [Moshiur - HTML, CSS, Bootstrap, and WordPress](https://www.youtube.com/moshiur)
 - [Code for Food](https://www.youtube.com/channel/UC3PPNB_VsG7-NO42mgdrbbA)
 - [Code With Zonayed](https://www.youtube.com/channel/UC3PPNB_VsG7-NO42mgdrbbA)
