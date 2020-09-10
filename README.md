@@ -29,3 +29,6 @@
 - [React MERN Stack CRUD App Tutorial](https://www.positronx.io/react-mern-stack-crud-app-tutorial/)
 - [Build a MERN stack app from scratch](https://www.youtube.com/playlist?list=PLurIMwd6GdCj_VlnKVceR66Sxfcb37VU8)
 - [MERN STACK PROJECT](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBVbRqlXKaXN9J55VYeKD1G)
+
+## Vanilla Javascript Project
+- [10 JavaScript Projects in 10 Hours - Coding Challenge](https://www.youtube.com/watch?v=dtKciwk_si4&ab_channel=FlorinPop)
