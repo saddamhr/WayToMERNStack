@@ -44,3 +44,4 @@
 
 ## CSS
 - [Media Query](https://gist.github.com/sajeebmahamed/cd69fe392a62dc558bde2946573aed5d)
+- [Media Query](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
