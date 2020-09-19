@@ -34,6 +34,7 @@
 - [React MERN Stack CRUD App Tutorial](https://www.positronx.io/react-mern-stack-crud-app-tutorial/)
 - [Build a MERN stack app from scratch](https://www.youtube.com/playlist?list=PLurIMwd6GdCj_VlnKVceR66Sxfcb37VU8)
 - [MERN STACK PROJECT](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBVbRqlXKaXN9J55VYeKD1G)
+- [Photo Gallery App](https://levelup.gitconnected.com/create-a-photo-gallery-app-using-mern-stack-826d7d926232)
 
 ## Vanilla Javascript Tutorial
 - [Javascript: All You Need to Know](https://www.youtube.com/watch?v=9Rhawzp-Icg&list=PL_XxuZqN0xVAu_dWUVFbscqZdTzE8t6Z1&ab_channel=StackLearner)
