@@ -3,7 +3,7 @@
 ## YouTube Channels - Bangla
 - [Stack Learner](https://www.youtube.com/c/StackLearner/)
 - [Anisul Islam](https://www.youtube.com/c/anisulislamrubel)
-- [Moshiur - HTML, CSS, Bootstrap, and WordPress](https://www.youtube.com/moshiur)
+- [Moshiur](https://www.youtube.com/moshiur)
 - [Code for Food](https://www.youtube.com/channel/UC3PPNB_VsG7-NO42mgdrbbA)
 - [Code With Zonayed](https://www.youtube.com/channel/UC3PPNB_VsG7-NO42mgdrbbA)
 - [Learn with Sumit](https://www.youtube.com/c/LearnwithSumit)
