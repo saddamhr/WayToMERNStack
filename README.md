@@ -10,6 +10,7 @@
 - [webdeveloper bd](https://www.youtube.com/c/webdeveloperbd)
 
 ## YouTube Channels - English
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia/)
 - [Codevolution](https://www.youtube.com/c/Codevolution/)
 - [Clever Programmer](https://www.youtube.com/c/CleverProgrammer/)
 - [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
