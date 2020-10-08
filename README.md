@@ -27,8 +27,6 @@
 - [REACT ROUTER](https://reactrouter.com/web/guides/quick-start)
 
 ## Important Article/Package
-- [react-google-maps](https://www.npmjs.com/package/react-google-maps)
-- [google-map-react](https://github.com/google-map-react/google-map-react)
 - [সহজ, সরল, প্রমিত বাংলায় Redux](https://medium.com/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82-%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE/%E0%A6%B8%E0%A6%B9%E0%A6%9C-%E0%A6%B8%E0%A6%B0%E0%A6%B2-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%A4-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A7%9F-redux-a92a49a1c709)
 - [সফটওয়্যার ইঞ্জিনিয়ারিং ক্যারিয়ার গাইডলাইন (প্রথম পর্ব)](https://www.linkedin.com/pulse/%25E0%25A6%25B8%25E0%25A6%25AB%25E0%25A6%259F%25E0%25A6%2593%25E0%25A6%25AF%25E0%25A6%25AF%25E0%25A6%25B0-%25E0%25A6%2587%25E0%25A6%259E%25E0%25A6%259C%25E0%25A6%25A8%25E0%25A6%25AF%25E0%25A6%25B0-%25E0%25A6%2595%25E0%25A6%25AF%25E0%25A6%25B0%25E0%25A7%259F%25E0%25A6%25B0-%25E0%25A6%2597%25E0%25A6%2587%25E0%25A6%25A1%25E0%25A6%25B2%25E0%25A6%2587%25E0%25A6%25A8-%25E0%25A6%25AA%25E0%25A6%25B0%25E0%25A6%25A5%25E0%25A6%25AE-%25E0%25A6%25AA%25E0%25A6%25B0%25E0%25A6%25AC-md-imran-sheikh/)
 
@@ -53,3 +51,6 @@
 
 ## Most Used NPM Packages
 - [react-messenger-customer-chat](https://www.npmjs.com/package/react-messenger-customer-chat)
+- [React Image Lightbox](https://www.npmjs.com/package/react-image-lightbox)
+- [react-google-maps](https://www.npmjs.com/package/react-google-maps)
+- [google-map-react](https://github.com/google-map-react/google-map-react)
