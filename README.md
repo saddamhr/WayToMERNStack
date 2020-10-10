@@ -54,3 +54,4 @@
 - [React Image Lightbox](https://www.npmjs.com/package/react-image-lightbox)
 - [react-google-maps](https://www.npmjs.com/package/react-google-maps)
 - [google-map-react](https://github.com/google-map-react/google-map-react)
+- [react-alert](https://www.npmjs.com/package/react-alert)
