@@ -60,3 +60,6 @@
 
 ## Debugging
 - [Get Started with Debugging JavaScript in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
+
+## Top react chart libraries
+- [Recharts](https://recharts.org/en-US)
