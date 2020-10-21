@@ -50,6 +50,8 @@
 - [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 - [StickySocialBar](https://github.com/hasinhayder/StickySocialBar)
 - [reactstrap](https://reactstrap.github.io/)
+- [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ## Most Used NPM Packages
 - [react-messenger-customer-chat](https://www.npmjs.com/package/react-messenger-customer-chat)
