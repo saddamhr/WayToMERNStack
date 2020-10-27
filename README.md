@@ -71,3 +71,6 @@
 ## WYSIWYG/Rich Text Editor for ReactJS
 - [Top 15: Best Rich Text Editor Components (WYSIWYG) for ReactJS](https://ourcodeworld.com/articles/read/1065/top-15-best-rich-text-editor-components-wysiwyg-for-reactjs)
 - [CkEditor](https://www.npmjs.com/package/@ckeditor/ckeditor5-react)
+
+## React Resources
+- [Top 42 React resources every developer should bookmark [Latest]](https://dev.to/suniljoshi19/top-42-react-resources-every-developer-should-bookmark-latest-24pb?fbclid=IwAR0TVmmHa6DIfe0kSBAki_86HvW4Uj2cxixbPCcOC1Hyex287t4pK8L4wbw)
