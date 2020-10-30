@@ -74,3 +74,6 @@
 
 ## React Resources
 - [Top 42 React resources every developer should bookmark [Latest]](https://dev.to/suniljoshi19/top-42-react-resources-every-developer-should-bookmark-latest-24pb?fbclid=IwAR0TVmmHa6DIfe0kSBAki_86HvW4Uj2cxixbPCcOC1Hyex287t4pK8L4wbw)
+
+## Visual Studio Code Thing
+- [Sync VSCode extension | Share everything from one pc to other](https://youtu.be/jeaoUxCYtvk)
