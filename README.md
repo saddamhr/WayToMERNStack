@@ -44,6 +44,8 @@
 - [10 JavaScript Projects in 10 Hours - Coding Challenge](https://www.youtube.com/watch?v=dtKciwk_si4&ab_channel=FlorinPop)
 - [Vanilla JavaScript Projects in Bangla](https://www.youtube.com/watch?v=4Rzm3BE6DL0&list=PL4iFnndHldujaLgJcoO8d4yUlAKBM55GC&ab_channel=JSBangladesh)
 
+## Reactjs Projects
+- [8 React.js Project Ideas to Help You Start Learning by Doing](https://www.freecodecamp.org/news/8-reactjs-project-ideas-to-start-learning-by-doing/?fbclid=IwAR3-7Y3ovHJddrBoy-G9BJ60ganWOmHkAv5IJy_z2KYogoyhZScEvHQKNZA)
 
 ## CSS
 - [Media Query](https://gist.github.com/sajeebmahamed/cd69fe392a62dc558bde2946573aed5d)
