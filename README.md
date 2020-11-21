@@ -63,6 +63,7 @@
 - [react-alert](https://www.npmjs.com/package/react-alert)
 - [Top 15: Best Rich Text Editor Components (WYSIWYG) for ReactJS](https://ourcodeworld.com/articles/read/1065/top-15-best-rich-text-editor-components-wysiwyg-for-reactjs)
 - [FullCalendar Day Grid Plugin](https://www.npmjs.com/package/@fullcalendar/daygrid)
+- [react-scroll](https://www.npmjs.com/package/react-scroll)
 
 ## Debugging
 - [Get Started with Debugging JavaScript in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
