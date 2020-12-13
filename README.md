@@ -18,6 +18,7 @@
 - [Esterling Accime](https://www.youtube.com/c/EsterlingAccime)
 - [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A)
 - [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
+- [Technical Adda](https://www.youtube.com/channel/UCff_ZHXepc8kg-oDEI0-7tg)
 
 ## Important Sites
 - [হাতেকলমে জাভাস্ক্রিপ্ট](https://js.zonayed.me/)
