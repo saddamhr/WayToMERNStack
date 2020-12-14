@@ -50,6 +50,7 @@
 
 ## CSS
 - [Media Query](https://gist.github.com/sajeebmahamed/cd69fe392a62dc558bde2946573aed5d)
+- [ CSS Media Queries for Desktop, Tablet, Mobile](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488)
 - [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 - [StickySocialBar](https://github.com/hasinhayder/StickySocialBar)
 - [reactstrap](https://reactstrap.github.io/)
