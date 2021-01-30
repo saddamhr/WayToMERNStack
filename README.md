@@ -56,6 +56,7 @@
 - [reactstrap](https://reactstrap.github.io/)
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [7-1 Sass Architecture](https://www.learnhowtoprogram.com/user-interfaces/building-layouts-preprocessors/7-1-sass-architecture)
 
 ## Most Used NPM Packages
 - [react-messenger-customer-chat](https://www.npmjs.com/package/react-messenger-customer-chat)
