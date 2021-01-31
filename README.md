@@ -86,3 +86,6 @@
 
 ## Visual Studio Code Thing
 - [Sync VSCode extension | Share everything from one pc to other](https://youtu.be/jeaoUxCYtvk)
+
+## Architecture
+- [React JS — Perfect Architecture Industry standard Part-1: Best Directory/Folder structure](https://saurabhshah23.medium.com/react-js-architecture-part-1-best-directory-folder-structure-2862de774eef)
