@@ -83,6 +83,9 @@
   ## React File Upload
   - [use-file-upload](https://www.npmjs.com/package/use-file-upload)
   - [rc-upload](https://www.npmjs.com/package/rc-upload)
+  
+  ## Slider
+  - [Swiper Slider](https://swiperjs.com/demos)
 
 ## Visual Studio Code Thing
 - [Sync VSCode extension | Share everything from one pc to other](https://youtu.be/jeaoUxCYtvk)
