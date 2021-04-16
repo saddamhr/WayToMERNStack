@@ -60,6 +60,7 @@
 - [Learn CSS Grid for free](https://scrimba.com/learn/cssgrid)
 - [CSS Grid complete Bangla (বাংলা) Tutorial - যেমন খুশি তেমন layout বানাও](https://youtu.be/kEFIdXzQXYw)
 - [7-1 Sass Architecture](https://www.learnhowtoprogram.com/user-interfaces/building-layouts-preprocessors/7-1-sass-architecture)
+- [CSS clip-path maker](https://bennettfeely.com/clippy/)
 
 ## Most Used NPM Packages
 - [react-messenger-customer-chat](https://www.npmjs.com/package/react-messenger-customer-chat)
